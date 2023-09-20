@@ -4,7 +4,7 @@ Passionate Frontend Developer
 
 - 🌱 Currently exploring Angular, TypeScript, Node.js & AWS
 - 💬 Ask me about HTML, CSS, Angular
-- 📫 You can reach me at zoomchandan28@gmail.com
+- 📫 You can reach me at ilyasb160@gmail.com
 - ⚡ Fun fact: "Don't be boring, keep sharing!"
 
 Languages and Tools:
