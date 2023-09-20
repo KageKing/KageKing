@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="code.jpg" alt="Your Image Alt Text" width="700">
+  <h1>Hi, my name is Ilyas Boughlala</h1>
+  <img src="code.jpg" alt="Your Image Alt Text" width="48%">
+  <img src="code2.jpg" alt="Your Image Alt Text" width="48%">
 </div>
 
-<h1>👋 Hi there, I'm Ilyas Boughlala</h1>
-Passionate Frontend Developer
+## Additional Content
 
 - 🌱 Currently exploring Angular, TypeScript, Node.js.
 - 💬 Ask me about HTML, CSS, Angular
